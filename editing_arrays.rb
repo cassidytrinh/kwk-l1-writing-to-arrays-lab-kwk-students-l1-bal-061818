@@ -19,5 +19,5 @@ def add_colors
   return rainbow_colors
 end
 
-change_rainbow_colors
+add_colors
 puts rainbow_colors
